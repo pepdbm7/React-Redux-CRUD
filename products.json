@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caramel Cake",
+      "price": "12"
+    },
+    {
+      "id": 2,
+      "name": "Carrot Cake",
+      "price": "10"
+    },
+    {
+      "id": 3,
+      "name": "Ginger Cake",
+      "price": "12"
+    },
+    {
+      "id": 4,
+      "name": "Lemon Cake",
+      "price": "11"
+    },
+    {
+      "id": 5,
+      "name": "Hot chocolate",
+      "price": "4"
+    },
+    {
+      "id": 6,
+      "name": "Vanilla Cake",
+      "price": "9"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry Cake",
+      "price": "10"
+    },
+    {
+      "id": 8,
+      "name": "Muffin",
+      "price": "5"
+    },
+    {
+      "id": 9,
+      "name": "Cheescake",
+      "price": "9"
+    },
+    {
+      "id": 10,
+      "name": "Wedding Cake",
+      "price": "100"
+    }
+  ]
+}
