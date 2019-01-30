@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom'
 
-class Header extends Component {
-    render() {
+export const Header = () => {
+
         return (
             <nav className="navbar navbar-expand-lg navbar-dark bg-primary justify-content-between d-flex">
                 <h1>
@@ -12,7 +12,6 @@ class Header extends Component {
                 <Link to={'/products/new'} className="btn btn-success">Add +</Link>
             </nav>
         )
-    }
 }
 
 export default Header
